@@ -1,0 +1,16 @@
+#ifndef ARBOLYMALLA_
+#define ARBOLYMALLA_
+
+
+class ArbolyMalla
+{
+    public:
+        ArbolyMalla();
+        virtual ~ArbolyMalla();
+
+    protected:
+
+    private:
+};
+
+#endif // ARBOLYMALLA_
